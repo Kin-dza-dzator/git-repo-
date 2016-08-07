@@ -1,0 +1,9 @@
+diff a/layout_html5_liq_lcr_s2_400_eh_2/index.html b/layout_html5_liq_lcr_s2_400_eh_2/index.html	(rejected hunks)
+@@ -21,6 +21,7 @@
+ 
+ 		<div class="container">
+ 			<main class="content">
++				<strong>Content:</strong>  Какойто  текст  для  блока
+ <a href="#" class="expand">Expand column</a>			</main><!-- .content -->
+ 		</div><!-- .container-->
+ 
