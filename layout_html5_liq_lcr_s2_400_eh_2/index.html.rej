@@ -1,9 +1,9 @@
 diff a/layout_html5_liq_lcr_s2_400_eh_2/index.html b/layout_html5_liq_lcr_s2_400_eh_2/index.html	(rejected hunks)
-@@ -25,7 +25,6 @@
- 		</div><!-- .container-->
+@@ -21,6 +21,7 @@
  
- 		<aside class="left-sidebar">
--			<strong>Left Sidebar:</strong> хуня какаято
- 			<strong>Left Sidebar:</strong> хуня какаято!
- <a href="#" class="expand">Expand column</a>		</aside><!-- .left-sidebar -->
+ 		<div class="container">
+ 			<main class="content">
++				<strong>Content:</strong>  Какойто  текст  для  блока
+ <a href="#" class="expand">Expand column</a>			</main><!-- .content -->
+ 		</div><!-- .container-->
  
